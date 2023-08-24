@@ -5,7 +5,7 @@ My name is Jérémie Bannwarth and I am a Control Systems Engineer.
 ### About me
 
 - ⛴️ I am currently working on fully electric hydrofoiling boats with the crazy talented people at [Seachange](https://goseachange.com/) down in Auckland, New Zealand.
-- 🌱 I am currently learning more about fluid mechanics and real analysis by working my way through the [MITx 2.25.3x](https://www.edx.org/course/advanced-fluid-mechanics-3) and [EPFLx - analyse1](https://www.edx.org/course/analyse-i-partie-1) courses on edX. I am also reading through Skogestad and Postlethwaite's [Multivariable Feedback Control: Analysis and Design](https://www.wiley.com/en-gb/Multivariable+Feedback+Control%3A+Analysis+and+Design%2C+2nd+Edition-p-9780470011676) to improve my control fundamentals. It is a great read, I highly recommend it!
+- 🌱 I am currently learning more about real analysis by taking a distance course at Massey University and working my way through Tao's [Analysis](https://link.springer.com/book/10.1007/978-981-19-7261-4) books.
 - 😄 My pronouns are he/him.
 - 🌎 I am fluent in 🇬🇧 English and 🇫🇷 French and I am working on my 🇯🇵 Japanese.
 
