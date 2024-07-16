@@ -1,13 +1,13 @@
 ## Hello 👋
 
-My name is Jérémie Bannwarth and I am a Control Systems Engineer.
+My name is Jérémie and I am a Control Systems Engineer.
 
 ### About me
 
-- ⛴️ I am currently working on fully electric hydrofoiling boats with the crazy talented people at [Seachange](https://goseachange.com/) down in Auckland, New Zealand.
-- 🌱 I am currently learning more about real analysis by taking a distance course at Massey University and working my way through Tao's [Analysis](https://link.springer.com/book/10.1007/978-981-19-7261-4) books.
+- ⛴️ I am currently working on fully electric hydrofoiling boats with the talented people at [Vessev](https://www.vessev.com/) down in Auckland, New Zealand. We launched our first boat in May '24, check out the website!
+- 🌱 I am currently drilling on my mathematics fundamentals by taking courses at Massey University and the University of Auckland and working my way through Terence Tao's Analysis books.
 - 😄 My pronouns are he/him.
-- 🌎 I am fluent in 🇬🇧 English and 🇫🇷 French and I am working on my 🇯🇵 Japanese.
+- 🌎 I am fluent in 🇬🇧 English and 🇫🇷 French and I am working on my 🇯🇵 Japanese and 🇨🇳 Chinese.
 
 <!--
 **JBannwarth/JBannwarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
